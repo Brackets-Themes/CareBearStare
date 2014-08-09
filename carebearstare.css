@@ -1,7 +1,6 @@
 /* SWATCHES ---------------------------------------------------------------------- */
 
 span.cm-attribute	{ color: #ff53f1; }
-span.cm-property	{ color: #ff53f1; } /* property after string */
 
 span.cm-builtin     { color: #258b00; }
 span.cm-header      { color: #258b00; }
@@ -26,6 +25,7 @@ span.cm-error		{ color: #ed325b; }
 span.cm-keyword		{ color: #6d6d6d; font-weight: 700; }
 span.cm-tag			{ color: #0095ce; }
 span.cm-variable-2	{ color: #009584; }
+span.cm-property	{ color: #ff53f1; } /* property after string */
 span.cm-bracket		{ color: #7ec2db; }
 
 
