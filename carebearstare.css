@@ -31,8 +31,11 @@ span.cm-bracket		{ color: #7ec2db; }
 
 /* MISC ---------------------------------------------------------------------- */
 
-.CodeMirror,
-.CodeMirror .CodeMirror-scroll {
+.CodeMirror {
+    line-height: 1.4;
+}
+
+.CodeMirror-scroll {
 	background: #fff;
 	color: #4d4d4d;
 }
